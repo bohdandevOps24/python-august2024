@@ -1,0 +1,5 @@
+print("Hello world")
+print("Today is Saturday")
+print("My name is Bohdan")
+print("Bohdan is currently styding Python")
+print(26*30*12)
